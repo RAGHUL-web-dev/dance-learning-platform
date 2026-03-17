@@ -176,7 +176,7 @@ require_once 'includes/header.php';
                         <span class="text-gray-300">45 minutes</span>
                     </div>
                 </div>
-                <a href="#" class="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-700 transition">
+                <a href="https://youtu.be/Soxymgv_xCM?si=IWvviNqnHgm2Rmtr" class="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-700 transition">
                     <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"></path>
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
@@ -211,7 +211,7 @@ require_once 'includes/header.php';
                 <p class="text-gray-400 text-sm mb-3">Learn the fundamental positions and basic movements of classical ballet.</p>
                 <div class="flex items-center justify-between">
                     <span class="video-level">Beginner</span>
-                    <button class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</button>
+                    <a href="https://youtu.be/Soxymgv_xCM?si=IWvviNqnHgm2Rmtr" class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</a>
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@ require_once 'includes/header.php';
                 <p class="text-gray-400 text-sm mb-3">Master the essential hip hop grooves and popular dance moves.</p>
                 <div class="flex items-center justify-between">
                     <span class="video-level">Intermediate</span>
-                    <button class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</button>
+                    <a href="https://youtu.be/kbUzi7meesU?si=SIVnhDITyTBEbT3i" class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</a>
                 </div>
             </div>
         </div>
@@ -253,7 +253,7 @@ require_once 'includes/header.php';
                 <p class="text-gray-400 text-sm mb-3">Learn the basic salsa steps, turns, and partner work fundamentals.</p>
                 <div class="flex items-center justify-between">
                     <span class="video-level">Beginner</span>
-                    <button class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</button>
+                    <a href="https://youtu.be/fEZdmgHNa10?si=e1k5FsICxqCt0UX_" class="text-blue-500 hover:text-blue-400 text-sm font-medium">Watch →</a>
                 </div>
             </div>
         </div>

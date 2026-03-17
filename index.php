@@ -183,7 +183,7 @@ require_once 'includes/header.php';
                 </a>
             </div>
             <div class="relative">
-                <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+                <img src="https://dance-america.com/cdn/shop/articles/what-to-look-for-in-a-ballroom-dance-instructor-3661667.png?v=1751887420" 
                      alt="Dance instructor teaching online" 
                      class="rounded-2xl shadow-2xl border border-white/10">
                 <div class="absolute -bottom-6 -left-6 bg-black p-4 rounded-xl border border-white/10 shadow-xl max-w-xs">

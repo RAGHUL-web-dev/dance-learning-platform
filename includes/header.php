@@ -150,7 +150,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                         <svg class="h-8 w-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.871 4.871A10 10 0 0119.6 17.207m-2.829 2.829A10 10 0 013.964 5.964m14.022 14.022L4.414 5.414M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path>
                         </svg>
-                        <span class="font-bold text-xl text-white">Dance<span class="text-blue-500">Live</span></span>
+                        <span class="font-bold text-xl text-white">Dance<span class="text-blue-500">Wave</span></span>
                     </a>
                     
                     <!-- Navigation Links -->
